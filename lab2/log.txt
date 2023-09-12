@@ -1,0 +1,11 @@
+Constructor has worked
+AC is on now
+Temperature-
+Temperature+
+Mode switched to Sleep
+AC's info has been changed
+AC is on autoregulation
+Times is set on 3
+AC is off now
+AC's info has been printed
+AC's info has been reseted
