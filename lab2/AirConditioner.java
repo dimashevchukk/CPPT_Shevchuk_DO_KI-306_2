@@ -1,4 +1,4 @@
-package KI306.Shechuk.Lab3;
+package KI306.Shechuk.Lab2;
 
 import java.io.BufferedWriter;
 import java.io.FileWriter;
@@ -122,7 +122,7 @@ public class AirConditioner
             throw new RuntimeException(e);
         }
 
-        log("Times is set on " + time);
+        log("Timer is set on " + time);
         onOff();
     }
     /**
