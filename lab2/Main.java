@@ -1,4 +1,4 @@
-package KI306.Shechuk.Lab3;
+package KI306.Shechuk.Lab2;
 
 /**
  * Class Main implements work of AirConditioner class
